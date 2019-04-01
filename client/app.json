@@ -1,0 +1,15 @@
+{
+  "pages": ["pages/weather/index"],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于拉取天气数据"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationStyle": "custom",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white"
+  }
+}
